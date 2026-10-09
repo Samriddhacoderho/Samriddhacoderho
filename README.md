@@ -150,9 +150,9 @@ Proves via chain-rule gradient derivations why **zero-weight initialisation** ca
 
 <img src="https://streak-stats.demolab.com?user=Samriddhacoderho&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samriddhacoderho&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samriddhacoderho&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph" /> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Samriddhacoderho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Samriddhacoderho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" /> -->
 
 </div>
 
